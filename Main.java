@@ -1,4 +1,4 @@
 public static Main(){
-  String tekst = "randomowy commit"
-  int number = 777
+  String tekst = "randomowy commit";
+  int number = 777;
 }
